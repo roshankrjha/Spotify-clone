@@ -1,2 +1,2 @@
-# Spotify-clone
+# Netflix-clone
 Created with CodeSandbox
